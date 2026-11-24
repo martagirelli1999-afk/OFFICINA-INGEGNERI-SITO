@@ -1,0 +1,4 @@
+COME APRIRE IL SITO
+- Visual Studio: File > Apri > Cartella... e scegli questa cartella. Tasto destro su index.html > "Visualizza nel browser".
+- Oppure doppio clic su index.html.
+DA FARE: sostituire le immagini segnaposto (stesso nome file) in img/...; nomi del team; ID Formspree in contatti.html (https://formspree.io); informativa privacy.
